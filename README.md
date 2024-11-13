@@ -30,6 +30,10 @@ The data have been collected from the following publications:
 7.	Warren, N. J.;  Mykhaylyk, O. O.;  Ryan, A. J.;  Williams, M.;  Doussineau, T.;  Dugourd, P.;  Antoine, R.;  Portale, G.; Armes, S. P., Testing the Vesicular Morphology to Destruction: Birth and Death of Diblock Copolymer Vesicles Prepared via Polymerization-Induced Self-Assembly. J. Am. Chem. Soc. 2015, 137 (5), 1929-1937.
 8.	Chambon, P.;  Blanazs, A.;  Battaglia, G.; Armes, S., Facile synthesis of methacrylic ABC triblock copolymer vesicles by RAFT aqueous dispersion polymerization. Macromolecules 2012, 45 (12), 5081-5090.
 
+### Cite the code: 
+[![DOI](https://zenodo.org/badge/887578376.svg)](https://doi.org/10.5281/zenodo.14143425)
+
+
 
 
 ### Code Execution
