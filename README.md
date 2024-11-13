@@ -33,4 +33,4 @@ The data have been collected from the following publications:
 
 
 ### Code Execution
-The code is provided in a single Python script, phase_diagram_prediction.py, which includes the full workflow: data preprocessing, hyperparameter optimization, model training, and prediction.
+The code is provided in a single Python script, DNN_prediction_nano_PISA_V1.py, which includes the full workflow: data preprocessing, hyperparameter optimization, model training, and prediction.
