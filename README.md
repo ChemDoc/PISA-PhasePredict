@@ -11,14 +11,10 @@ The goal is to streamline the prediction process, providing accurate morphology 
 ## Getting Started:
 To test and use this model, follow these steps:
 
-### Prerequisites:
-- numpy==1.26.4 
-- pandas==2.2.1 
-- matplotlib==3.8.3 
-- seaborn==0.13.2 
-- scikit-learn==1.4.1 
-- tensorflow==2.16.1 
-- optuna==3.6.1 
+### Install the Prerequisites::
+Make sure to have an active virtual environment (optional but recommended).
+Install the required dependencies listed in requirements.txt
+
 
 ### Download the Sample Data:
 Download data_sample.csv from this repository, which contains sample data points with features required for model training and prediction. Use this file to test the functionality of the code.
