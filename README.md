@@ -1,4 +1,4 @@
-# PISA-PhasePredict
+# Polymer nanoparticle phase diagram predict
 
 ## Description:
 This repository provides a predictive model for phase diagrams in copolymer systems, specifically targeting nanostructure morphologies (spheres, worms, vesicles, and mixed phases) in PGMA-PHPMA systems. Leveraging data from literature, this project employs a deep neural network (DNN) to predict morphologies based on key polymer characteristics such as molecular weight and solids content. The project is designed to minimize experimental workload by providing accurate phase predictions via a trained model.
